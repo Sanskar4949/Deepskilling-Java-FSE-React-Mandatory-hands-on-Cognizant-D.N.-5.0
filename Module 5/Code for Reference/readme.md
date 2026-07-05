@@ -1,4 +1,9 @@
-These codes are just for reference here. The structure used to run in my system localy is :
+
+These codes are for reference.
+
+## Project Structure
+
+```text
 mockito-exercises/
 │
 ├── pom.xml
@@ -18,3 +23,13 @@ mockito-exercises/
 │               └── cognizant/
 │                   └── mockito/
 │                       └── MyServiceTest.java
+│
+└── pom.xml
+```
+
+## Files
+
+- `ExternalApi.java` – Interface to be mocked.
+- `MyService.java` – Uses `ExternalApi`.
+- `MyServiceTest.java` – JUnit 5 + Mockito test.
+- `pom.xml` – Maven configuration and dependencies.
