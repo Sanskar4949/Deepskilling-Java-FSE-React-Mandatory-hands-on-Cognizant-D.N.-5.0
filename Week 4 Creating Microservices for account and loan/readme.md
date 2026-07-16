@@ -5,7 +5,7 @@
 ### Account Microservice
 > Replace the image below with your screenshot.
 
-![Account Service](screenshots/account-service.png)
+![Account Service](screenshots/Screenshot (771).png)
 
 ---
 
