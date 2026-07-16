@@ -5,14 +5,14 @@
 ### Account Microservice
 > Replace the image below with your screenshot.
 
-![Account Service](screenshots/Screenshot (771).png)
+![Account Service](account-service.png)
 
 ---
 
 ### Loan Microservice
 > Replace the image below with your screenshot.
 
-![Loan Service](screenshots/loan-service.png)
+![Loan Service](loan-service.png)
 
 ---
 
